@@ -1,0 +1,53 @@
+.v{
+    margin: 4%;
+}
+
+.button{
+    background-color: hsl(240, 18%, 77%);
+    z-index: 2;
+    position: absolute;
+    top: 570px;
+    left: 900px;
+    border-radius: 25px;
+}
+
+.but{
+    margin: 15px;
+}
+
+.im{
+    position: absolute;
+}
+
+.img1{
+    top: 25%;
+    left: 200px;
+}
+.img2{
+    left: 50px;
+    padding-left: 500px;
+    top: 0%;
+}
+
+.img3{
+    bottom: 0%;
+}
+
+p{
+    font-size: 30px;
+}
+
+.dic{
+    position: relative;
+    left: 125px;
+    margin-top: 150px;
+    z-index: 1;
+}
+
+.img{
+    position: relative;
+}
+
+.v2{
+    display: none;
+}
